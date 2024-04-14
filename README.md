@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 💬 Ask me about **Data Structure and algorithm,MACHINE LEARNING**
+- 💬 Ask me about **Data Structure and algorithm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
