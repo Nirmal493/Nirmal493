@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/cyrus_nirmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyrus_nirmal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/nirmal-kumar-nirmal-226b39237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/nirmal-kumar-nirmal-226b39237" height="30" width="40" /></a>
-<a href="https://instagram.com/___cyrus_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___cyrus_" height="30" width="40" /></a>
+<a href="https://instagram.com/___cyrus__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___cyrus_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nirmal493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nirmal493" height="30" width="40" /></a>
 </p>
 
